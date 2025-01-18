@@ -1,0 +1,24 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Parking Lot/*
+!/Parking Lot/task/
+/Parking Lot/task/*
+!/Parking Lot/task/src
+
+# Project exclude paths
+/Topics/StringBuffer/Reverse engineering/out/
+/Topics/StringBuffer/Reverse engineering/out/production/classes/
+/Topics/StringBuffer/Thin threads/out/
+/Topics/StringBuffer/Thin threads/out/production/classes/
+/Topics/StringBuilder/Big even letters/out/
+/Topics/StringBuilder/Big even letters/out/production/classes/
